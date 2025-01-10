@@ -1,3 +1,4 @@
+/* Основные стили для body */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -5,6 +6,7 @@ body {
     padding: 0;
 }
 
+/* Контейнер для основного контента */
 .container {
     width: 50%;
     margin: 0 auto;
@@ -14,21 +16,25 @@ body {
     margin-top: 50px;
 }
 
+/* Заголовок */
 h1 {
     text-align: center;
 }
 
+/* Стили для формы добавления задачи */
 form {
     display: flex;
     justify-content: center;
 }
 
+/* Стили для поля ввода задачи */
 input[type="text"] {
     flex: 1;
     padding: 10px;
     border: 1px solid #ddd;
 }
 
+/* Стили для кнопки добавления задачи */
 button {
     padding: 10px;
     background: #5cb85c;
@@ -37,11 +43,13 @@ button {
     cursor: pointer;
 }
 
+/* Стили для списка задач */
 ul {
     list-style-type: none;
     padding: 0;
 }
 
+/* Стили для элементов списка задач */
 li {
     padding: 10px;
     border-bottom: 1px solid #ddd;
@@ -49,4 +57,5 @@ li {
     justify-content: space-between;
     align-items: center;
 }
+
 

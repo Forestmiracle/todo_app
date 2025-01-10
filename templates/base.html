@@ -4,13 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To-Do List</title>
+    <!-- Подключаем файл стилей -->
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <div class="container">
+        <!-- Этот блок будет заменен содержимым других шаблонов -->
         {% block content %}{% endblock %}
     </div>
 </body>
 </html>
+
 
 
