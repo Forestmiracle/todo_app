@@ -1,2 +1,2 @@
-  todo appp
+  todo app
  
