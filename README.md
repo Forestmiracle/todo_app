@@ -1,1 +1,1 @@
-  vmmc
+  vmm
