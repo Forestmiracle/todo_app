@@ -1,4 +1,3 @@
   v
 xnnxnnx
 xnnxx
-x
