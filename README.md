@@ -1,4 +1,4 @@
   v
 xnnxnnx
-xnnxxnnn
+xnnxx
 x
